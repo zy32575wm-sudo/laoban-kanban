@@ -7,7 +7,7 @@
 打开豆包电脑版，切换到「工作」，对豆包说：
 
 ```
-帮我安装这个技能：github.com/zy32575wm-sudo/laoban-kanban
+豆包你好，帮我安装 GitHub 上 zy32575wm-sudo 的 laoban-kanban
 ```
 
 ## 怎么用
